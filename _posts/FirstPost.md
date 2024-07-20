@@ -7,7 +7,6 @@ cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
 tags: jekyll, Github
 ---
 
-> Transform your plain text into static websites and blogs.
 
 ### 첫 글
 
