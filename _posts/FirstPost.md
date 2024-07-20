@@ -1,9 +1,8 @@
 ---
 layout: post
-title: 'FirstPost'
+title: FirstPost
 date: 2024-07-20
 author: Jekyll
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
 tags: jekyll, Github
 ---
 
