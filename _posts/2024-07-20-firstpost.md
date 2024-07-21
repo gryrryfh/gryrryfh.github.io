@@ -2,7 +2,7 @@
 layout: post
 title: FirstPost
 date: 2024-07-20
-author: Jekyll
+author: jaegyeong
 tags: jekyll, Github
 ---
 
